@@ -13,6 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="benchmark.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="chunk.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
